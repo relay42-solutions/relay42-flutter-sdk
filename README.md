@@ -27,7 +27,7 @@ Add this to your app’s `pubspec.yaml`:
 dependencies:
   relay42_flutter_sdk:
     git:
-      url: https://github.com/<your-org-or-user>/Relay42-Flutter-SDK.git
+      url: https://github.com/relay42-solutions/Relay42-Flutter-SDK.git
       ref: main
 ```
 
